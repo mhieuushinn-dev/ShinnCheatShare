@@ -1,29 +1,334 @@
 {
-  "name": "ShinnCheatShare Repository",
-  "identifier": "com.shinn.cheatshare",
-  "description": "Kho chứa các tệp mod 3105 dùng để cập nhật lên GitHub",
-  "icon": "https://github.com/mhieuushinn-dev.png",
-  "website": "https://github.com/mhieuushinn-dev/ShinnCheatShare",
-  "author": "Minh Hiếu",
-  "contact": "@ShinnThieuu",
-  "apps": [
+  "schemaVersion": 1,
+  "identifier": "com.telegram.shinnthieuu",
+  "name": "Shinn Cheat 2009",
+  "description": "Feed back + Báo lỗi | Telegram Admin: @ShinnThieuu",
+  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+  "accentColor": "#ff4fa3",
+  "categories": [
     {
-      "name": "Mod FFT Alok",
-      "bundleIdentifier": "com.dts.freefireth.mod.alok",
-      "version": "1.0.0",
-      "versionDate": "2026-09-20",
-      "localizedDescription": "Tệp Mod FFT Alok.3105 cho Free Fire.",
-      "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Mod%20FFT%20Alok.3105",
-      "size": 102400
+      "name": "Free Fire",
+      "icon": "gamecontroller",
+      "apps": [
+        {
+          "name": "Body",
+          "bundleIdentifier": "shinn.body.ff",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Body.3105",
+          "size": 64602,
+          "sha256": "88c0e4fb28d9917fe97d9d00421aad020a6e9d4671686cd948057b14835c822b",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Chest",
+          "bundleIdentifier": "shinn.chest.ff",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Chest.3105",
+          "size": 64597,
+          "sha256": "20e8bd7082f37b18791ee338b7aa6a71415fb925bd860a6ec937588971a1b100",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Drag",
+          "bundleIdentifier": "shinn.drag.ff",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Drag.3105",
+          "size": 64602,
+          "sha256": "0a0cd296c9db29e293e907634684161133b3699a0e0df85b49c70b30a0214b4c",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Magic",
+          "bundleIdentifier": "shinn.magic.ff",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Magic.3105",
+          "size": 64603,
+          "sha256": "d0517b198396be787bd3fafe5db23ff1af934128bb0f00d1f88b5498ce8647e7",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Neck",
+          "bundleIdentifier": "shinn.neck.ff",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Neck.3105",
+          "size": 64602,
+          "sha256": "11d8dad186395aa013e0e1d15aea4dae34424a7806113fc21b9dfc8cbab9d7b6",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Spider FFT",
+          "bundleIdentifier": "shinn.spider.fft",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFT.3105",
+          "size": 2556163,
+          "sha256": "ea462bde0c413c19a36c9741aa2a72bf759df1e0b8e75a9361f4c190321b80c2",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        }
+      ]
+    },    {
+      "name": "Free Fire Max",
+      "icon": "gamecontroller.fill",
+      "apps": [
+        {
+          "name": "Body FFM",
+          "bundleIdentifier": "shinn.body.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Body%20FFM.3105",
+          "size": 64601,
+          "sha256": "6bdfaf831b7b8a937d5a7597c2c3f90a05a53869550e7f4bcc33afd472eae8d4",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Rob FFM",
+          "bundleIdentifier": "shinn.rob.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Rob%20FFM.3105",
+          "size": 64600,
+          "sha256": "550e249567f6f6cd33eb56be62088f346607d4909abf9c7774f1856e6a7ff8fd",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Spider FFM",
+          "bundleIdentifier": "shinn.spider.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFM.3105",
+          "size": 1886506,
+          "sha256": "44f274f69c6adfc81343d1d5bca420c829241dd2ebf21cd12e7c45a5eb12a763",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        }
+      ]
     },
     {
-      "name": "Mod Gojo FFM",
-      "bundleIdentifier": "com.dts.freefiremax.mod.gojo",
-      "version": "1.0.0",
-      "versionDate": "2026-09-20",
-      "localizedDescription": "Tệp Mod Gojo FFM.3105 cho Free Fire Max.",
-      "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Mod%20Gojo%20FFM.3105",
-      "size": 102400
+      "name": "Aim FFTH",
+      "icon": "scope",
+      "apps": [
+        {
+          "name": "ESP-AIM",
+          "bundleIdentifier": "shinn.aim.ffth",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM.3105",
+          "size": 14315,
+          "sha256": "fb17dd417dfbf2b2f756db9a5e75bf8dd23727d1497b77c76fb0274d89840c0e",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "ESP-AIM V2",
+          "bundleIdentifier": "shinn.aimv2.ffth",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20V2.3105",
+          "size": 42473,
+          "sha256": "53e0e85e7f16d818659fb058121ba1128d9fafa0a79c2970dfc49cf9db17a703",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        }
+      ]
+    },    {
+      "name": "Aim FFM",
+      "icon": "scope",
+      "apps": [
+        {
+          "name": "ESP-AIM FFM",
+          "bundleIdentifier": "shinn.aim.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
+          "size": 14320,
+          "sha256": "b3449bd934c671c4940b0947036ce1c9d4f7ba0db55fff8cd4a1ece28474010f",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "ESP-AIM FFM V2",
+          "bundleIdentifier": "shinn.aimv2.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM%20V2.3105",
+          "size": 42478,
+          "sha256": "38ccd80c433cc9ccecaccbbdc0a93051c569db297b2961c5355c1f04098ed4a5",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        }
+      ]
+    },
+    {
+      "name": "Mod Skin",
+      "icon": "paintbrush",
+      "apps": [
+        {
+          "name": "Mod FFT Alok",
+          "bundleIdentifier": "shinn.mod.alok.fft",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20Alok.3105",
+          "size": 2556165,
+          "sha256": "25ce60e757754171447320a838a2ba3155f6680aa467f834702e293c18601101",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Mod FFT Dam",
+          "bundleIdentifier": "shinn.mod.dam.fft",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20Dam.3105",
+          "size": 2618230,
+          "sha256": "7a1ba0f188304bffb31fa1b740b343acad805cc110978f54edb4cdb4174fe087",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Mod FFT TVC1-2",
+          "bundleIdentifier": "shinn.mod.tvc.fft",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20TVC1-2.3105",
+          "size": 2618233,
+          "sha256": "c6a0a9bd0c000c86f9add3b52e707481986bf0b29a7475d73e5fa76a88949ac2",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Mod FFTH Prolayer",
+          "bundleIdentifier": "shinn.mod.pro.ffth",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFTH%20prolayer.3105",
+          "size": 2618238,
+          "sha256": "205a7fcf5488b3794b035326bf9043bd84aab827a8599eb4b51508d042ead8e1",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Mod Vip FFT",
+          "bundleIdentifier": "shinn.mod.vip.fft",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Vip%20FFT.3105",
+          "size": 2556170,
+          "sha256": "7576e3c92aad3570696f7915f5567f981fb4a8191dd468138d9443d8537ea47d",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Mod Gojo FFM",
+          "bundleIdentifier": "shinn.mod.gojo.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Gojo%20FFM.3105",
+          "size": 1886514,
+          "sha256": "fb8429dcd47e2e0a70d8770adb5847f6e6509d05ef3c01ed225e69c7e188a86e",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Mod FFM TVC 1-2",
+          "bundleIdentifier": "shinn.mod.tvc.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFM%20TVC%201-2.3105",
+          "size": 1875959,
+          "sha256": "aa1a836f2877f3798d49b80a2ce57ad7cb21b0036c8466f80c62cf16e0b27895",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        }
+      ]
+    },    {
+      "name": "Menu FFT",
+      "icon": "list.bullet",
+      "apps": [
+        {
+          "name": "Menu FFTH",
+          "bundleIdentifier": "shinn.menu.ffth",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFTH.3105",
+          "size": 21530,
+          "sha256": "10f9c8264e665b64f2892eb91308399cc154ac5ddcd5ced74f0cd2193afa5099",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Menu Fix Crash FFT",
+          "bundleIdentifier": "shinn.menu.crash.fft",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20Fix%20Crash%20FFT.3105",
+          "size": 23105,
+          "sha256": "5b406f9bd7278810da0e372f5dd611c470d5c9ba69d21be5169cbcdd1dd05fd2",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Menu Fix Crash Delta FFT",
+          "bundleIdentifier": "shinn.menu.delta.fft",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20Fix%20Crash%20Delta%20FFT.3105",
+          "size": 40109,
+          "sha256": "fb331c54becc1399b9020129d1f9a3ef765cf2b392a783623a5f63f56084a695",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        }
+      ]
+    },    {
+      "name": "Menu FFM",
+      "icon": "list.bullet.rectangle",
+      "apps": [
+        {
+          "name": "Menu FFM",
+          "bundleIdentifier": "shinn.menu.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20FFM.3105",
+          "size": 21530,
+          "sha256": "4c805a118c3b50a3c6ae5dcb42a72235266ce8bd7a121fcd1f38b94d632a19cb",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Menu Fix Crash FFM",
+          "bundleIdentifier": "shinn.menu.crash.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20Fix%20Crash%20FFM.3105",
+          "size": 23106,
+          "sha256": "6d9afdd02799d0471054edcd6846678770941cf7d0c7d0999ac9583920433f8f",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        },
+        {
+          "name": "Menu Fix Crash Delta FFM",
+          "bundleIdentifier": "shinn.menu.delta.ffm",
+          "version": "2009",
+          "versionDate": "2026-09-19",
+          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20Fix%20Crash%20Delta%20FFM.3105",
+          "size": 40110,
+          "sha256": "0ddc6250cf5b1e61c42841205994d2d02aa99cfb2ccb84c0d935600b4935e2cd",
+          "iconURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0508.png",
+          "description": "Feed back + Báo lỗi\nTelegram Admin: @ShinnThieuu\n\nTất cả Repo và File đều được chia sẻ miễn phí tại group share Telegram: https://t.me/ShinnCheatShare\n\nNếu bạn mua Repo hay File thì bạn đã bị lừa.\n\nSử dụng Repo và File một cách thông minh và đã chấp nhận rủi ro của file mang lại. Xin cảm ơn."
+        }
+      ]
     }
   ]
 }
