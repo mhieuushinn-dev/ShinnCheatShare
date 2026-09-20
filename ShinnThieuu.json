@@ -1,220 +1,98 @@
 {
   "schemaVersion": 1,
-  "identifier": "com.telegram.shinnthieuu",
-  "name": "Shinn Cheat Share",
+  "identifier": "com.mhieuushinn.shinncheat",
+  "name": "Minh Hiếu",
   "description": "Telegram: @ShinnThieuu",
-  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/IMG_0508.png",
-  "accentColor": "#ff4fa3",
-  "categories": [
+  "accentColor": "#000000",
+  "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_20260819005845878.png",
+  "packages": [
     {
-      "name": "Free Fire",
-      "icon": "gamecontroller",
-      "apps": [
-        {
-          "name": "Body",
-          "bundleIdentifier": "shinn.body.ff",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Body.3105"
-        },
-        {
-          "name": "Chest",
-          "bundleIdentifier": "shinn.chest.ff",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Chest.3105"
-        },
-        {
-          "name": "Drag",
-          "bundleIdentifier": "shinn.drag.ff",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Drag.3105"
-        },
-        {
-          "name": "Magic",
-          "bundleIdentifier": "shinn.magic.ff",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Magic.3105"
-        },
-        {
-          "name": "Neck",
-          "bundleIdentifier": "shinn.neck.ff",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Neck.3105"
-        },
-        {
-          "name": "Spider FFT",
-          "bundleIdentifier": "shinn.spider.fft",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Spider%20FFT.3105"
-        }
-      ]
+      "identifier": "com.shinn.aimbody",
+      "name": "Body",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "AIM - Body",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "AIM",
+      "tags": ["AIM","Free Fire"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Body.3105",
+      "sha256": "cf55ba3c5f6e7051a0c2ba409f079b7829cd2d2ad23b61dd269d00acdd090718",
+      "size": 64602,
+      "supportedOS": [
+        {"minimum":"17.0","maximum":"18.7.1"},
+        {"minimum":"26.0","maximum":"26.6.1"},
+        {"minimum":"27.0","maximum":"27.0","builds":["24A5355q","24A5370h","24A5380h","24A5390f"]}
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
     },
     {
-      "name": "Free Fire Max",
-      "icon": "gamecontroller",
-      "apps": [
-        {
-          "name": "Body FFM",
-          "bundleIdentifier": "shinn.body.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Body%20FFM.3105"
-        },
-        {
-          "name": "Rob FFM",
-          "bundleIdentifier": "shinn.rob.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Rob%20FFM.3105"
-        },
-        {
-          "name": "Spider FFM",
-          "bundleIdentifier": "shinn.spider.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Spider%20FFM.3105"
-        }
-      ]
+      "identifier": "com.shinn.espaimv2ff",
+      "name": "ESP+Aim V2",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "ESP+Aim V2 Free Fire",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire",
+      "tags": ["Free Fire","ESP","AIM"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20V2.3105",
+      "sha256": "53e0e85e7f16d818659fb058121ba1128d9fafa0a79c2970dfc49cf9db17a703",
+      "size": 42473,
+      "supportedOS": [
+        {"minimum":"17.0","maximum":"18.7.1"},
+        {"minimum":"26.0","maximum":"26.6.1"},
+        {"minimum":"27.0","maximum":"27.0","builds":["24A5355q","24A5370h","24A5380h","24A5390f"]}
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
     },
     {
-      "name": "Aim FFTH",
-      "icon": "scope",
-      "apps": [
-        {
-          "name": "ESP-AIM",
-          "bundleIdentifier": "shinn.aim.ffth",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/ESP-AIM.3105"
-        },
-        {
-          "name": "ESP-AIM V2",
-          "bundleIdentifier": "shinn.aimv2.ffth",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/ESP-AIM%20V2.3105"
-        }
-      ]
+      "identifier": "com.shinn.espaimv2ffm",
+      "name": "ESP+Aim V2 FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "ESP+Aim V2 Free Fire Max",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire Max",
+      "tags": ["Free Fire Max","ESP","AIM"],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM%20V2.3105",
+      "sha256": "38ccd80c433cc9ccecaccbbdc0a93051c569db297b2961c5355c1f04098ed4a5",
+      "size": 42478,
+      "supportedOS": [
+        {"minimum":"17.0","maximum":"18.7.1"},
+        {"minimum":"26.0","maximum":"26.6.1"},
+        {"minimum":"27.0","maximum":"27.0","builds":["24A5355q","24A5370h","24A5380h","24A5390f"]}
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
     },
     {
-      "name": "Aim FFM",
-      "icon": "scope",
-      "apps": [
-        {
-          "name": "ESP-AIM FFM",
-          "bundleIdentifier": "shinn.aim.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/ESP-AIM%20FFM.3105"
-        },
-        {
-          "name": "ESP-AIM FFM V2",
-          "bundleIdentifier": "shinn.aimv2.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/ESP-AIM%20FFM%20V2.3105"
-        }
-      ]
-    },
-    {
-      "name": "Mod Skin",
-      "icon": "paintbrush",
-      "apps": [
-        {
-          "name": "Mod FFT Alok",
-          "bundleIdentifier": "shinn.mod.alok.fft",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Mod%20FFT%20Alok.3105"
-        },
-        {
-          "name": "Mod FFT Dam",
-          "bundleIdentifier": "shinn.mod.dam.fft",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Mod%20FFT%20Dam.3105"
-        },
-        {
-          "name": "Mod FFT TVC1-2",
-          "bundleIdentifier": "shinn.mod.tvc.fft",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Mod%20FFT%20TVC1-2.3105"
-        },
-        {
-          "name": "Mod FFTH Prolayer",
-          "bundleIdentifier": "shinn.mod.pro.ffth",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Mod%20FFTH%20prolayer.3105"
-        },
-        {
-          "name": "Mod Vip FFT",
-          "bundleIdentifier": "shinn.mod.vip.fft",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Mod%20Vip%20FFT.3105"
-        },
-        {
-          "name": "Mod Gojo FFM",
-          "bundleIdentifier": "shinn.mod.gojo.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Mod%20Gojo%20FFM.3105"
-        },
-        {
-          "name": "Mod FFM TVC 1-2",
-          "bundleIdentifier": "shinn.mod.tvc.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Mod%20FFM%20TVC%201-2.3105"
-        }
-      ]
-    },
-    {
-      "name": "Menu FFT",
-      "icon": "list.bullet",
-      "apps": [
-        {
-          "name": "Menu FFTH",
-          "bundleIdentifier": "shinn.menu.ffth",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Menu%20FFTH.3105"
-        },
-        {
-          "name": "Menu Fix Crash FFT",
-          "bundleIdentifier": "shinn.menu.crash.fft",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Menu%20Fix%20Crash%20FFT.3105"
-        },
-        {
-          "name": "Menu Fix Crash Delta FFT",
-          "bundleIdentifier": "shinn.menu.delta.fft",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Menu%20Fix%20Crash%20Delta%20FFT.3105"
-        }
-      ]
-    },
-    {
-      "name": "Menu FFM",
-      "icon": "list.bullet",
-      "apps": [
-        {
-          "name": "Menu FFM",
-          "bundleIdentifier": "shinn.menu.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Menu%20FFM.3105"
-        },
-        {
-          "name": "Menu Fix Crash FFM",
-          "bundleIdentifier": "shinn.menu.crash.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Menu%20Fix%20Crash%20FFM.3105"
-        },
-        {
-          "name": "Menu Fix Crash Delta FFM",
-          "bundleIdentifier": "shinn.menu.delta.ffm",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Menu%20Fix%20Crash%20Delta%20FFM.3105"
-        }
-      ]
-    },
-    {
+      "identifier": "com.shinn.lienquan",
       "name": "Liên Quân Mobile",
-      "icon": "gamecontroller",
-      "apps": [
-        {
-          "name": "Liên Quân Mobile",
-          "bundleIdentifier": "shinn.lienquan.mobile",
-          "version": "2009",
-          "downloadURL": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheatShare/main/Li%C3%AAn%20Qu%C3%A2n%20Mobile.3105"
-        }
-      ]
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Liên Quân Mobile",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Liên Quân Mobile",
+      "tags": ["Liên Quân Mobile"],
+      "publishedAt": "2026-09-18T20:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Li%C3%AAn%20Qu%C3%A2n%20Mobile.3105",
+      "sha256": "f2c6a1b6623452a83c81c5558178e5e264737fc3c9b765f81bcca2823ec0f185",
+      "size": 135316,
+      "supportedOS": [
+        {"minimum":"17.0","maximum":"18.7.1"},
+        {"minimum":"26.0","maximum":"26.6.1"},
+        {"minimum":"27.0","maximum":"27.0","builds":["24A5355q","24A5370h","24A5380h","24A5390f"]}
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
     }
   ]
 }
