@@ -1,0 +1,146 @@
+{
+  "name": "3105-mods-repository",
+  "version": "1.0.0",
+  "description": "Kho chứa các tệp mod 3105 dùng để cập nhật lên GitHub",
+  "main": "index.json",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node build.js"
+  },
+  "keywords": [
+    "3105",
+    "mod",
+    "fft",
+    "ffm",
+    "esp",
+    "aim",
+    "github"
+  ],
+  "author": "nsmod",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/3105-mods-repository.git"
+  },
+  "author_info": {
+    "name": "Minh Hiếu",
+    "telegram": "@ShinnThieuu",
+    "total_packages": 18
+  },
+  "tags": {
+    "all": {
+      "label": "Tất cả gói",
+      "count": 18
+    },
+    "aim": {
+      "label": "AIM",
+      "count": 9
+    },
+    "esp": {
+      "label": "ESP",
+      "count": 2
+    },
+    "free_fire": {
+      "label": "Free Fire",
+      "count": 11
+    },
+    "free_fire_max": {
+      "label": "Free Fire Max",
+      "count": 6
+    },
+    "lien_quan_mobile": {
+      "label": "Liên Quân Mobile",
+      "count": 1
+    },
+    "mod_skin": {
+      "label": "MOD SKIN",
+      "count": 6
+    }
+  },
+  "directories": {
+    "Free Fire": {
+      "label": "Free Fire",
+      "files": [
+        "Body.3105",
+        "Chest.3105",
+        "Drag.3105",
+        "Magic.3105",
+        "Neck.3105",
+        "Spider FFT.3105",
+        "Mod Alok FFT.3105",
+        "Mod Vip FFT.3105",
+        "Mod FFT TVC1-2.3105",
+        "Mod FFT Dam.3105",
+        "Mod FFT Alok.3105"
+      ]
+    },
+    "Free Fire Max": {
+      "label": "Free Fire Max",
+      "files": [
+        "Body FFM.3105",
+        "Rob FFM.3105",
+        "Spider FFM.3105",
+        "Mod Gojo FFM.3105",
+        "Mod FFM TVC 1-2.3105",
+        "Mod FFM TVC 1-2.3105"
+      ]
+    },
+    "Aim FFTH": {
+      "label": "Aim FFTH",
+      "files": [
+        "ESP-AIM.3105",
+        "ESP-AIM V2.3105",
+        "Menu FFTH.3105",
+        "Mod FFTH prolayer.3105",
+        "Menu Fix Crash FFT.3105",
+        "Menu Fix Crash Delta FFT.3105"
+      ]
+    },
+    "Aim FFM": {
+      "label": "Aim FFM",
+      "files": [
+        "ESP-AIM FFM.3105",
+        "ESP-AIM FFM V2.3105",
+        "Menu FFM.3105",
+        "Menu Fix Crash FFM.3105",
+        "Menu Fix Crash Delta FFM.3105"
+      ]
+    },
+    "Menu FFTH": {
+      "label": "Menu FFTH",
+      "files": [
+        "Menu FFTH.3105",
+        "Mod FFTH prolayer.3105",
+        "Menu Fix Crash FFT.3105",
+        "Menu Fix Crash Delta FFT.3105"
+      ]
+    },
+    "Menu FFM": {
+      "label": "Menu FFM",
+      "files": [
+        "Menu FFM.3105",
+        "Menu Fix Crash FFM.3105",
+        "Menu Fix Crash Delta FFM.3105"
+      ]
+    },
+    "Liên Quân": {
+      "label": "Liên Quân",
+      "files": [
+        "Liên Quân Mobile.3105"
+      ]
+    },
+    "Mod Skin": {
+      "label": "Mod Skin",
+      "files": [
+        "Mod Vip FFT.3105",
+        "Mod Gojo FFM.3105",
+        "Mod Alok FFT.3105",
+        "Mod FFT TVC1-2.3105",
+        "Mod FFT Dam.3105",
+        "Mod FFT Alok.3105"
+      ]
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
