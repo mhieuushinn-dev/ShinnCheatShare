@@ -494,8 +494,7 @@
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "MOD SKIN",
       "tags": [
-        "MOD SKIN",
-        "Free Fire Max"
+        "MOD SKIN"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Gojo%20FFM.3105",
@@ -534,8 +533,7 @@
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "MOD SKIN",
       "tags": [
-        "MOD SKIN",
-        "Free Fire"
+        "MOD SKIN"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Vip%20FFT.3105",
@@ -574,8 +572,7 @@
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "MOD SKIN",
       "tags": [
-        "MOD SKIN",
-        "Free Fire"
+        "MOD SKIN"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20Dam.3105",
@@ -614,8 +611,7 @@
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "MOD SKIN",
       "tags": [
-        "MOD SKIN",
-        "Free Fire"
+        "MOD SKIN"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20TVC1-2.3105",
@@ -654,8 +650,7 @@
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "MOD SKIN",
       "tags": [
-        "MOD SKIN",
-        "Free Fire"
+        "MOD SKIN"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFTH%20prolayer.3105",
@@ -694,13 +689,441 @@
       "description": "Feed Back Telegram: @ShinnThieuu.",
       "category": "MOD SKIN",
       "tags": [
-        "MOD SKIN",
-        "Free Fire Max"
+        "MOD SKIN"
       ],
       "publishedAt": "2026-09-18T00:00:00Z",
       "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFM%20TVC%201-2.3105",
       "sha256": "eeb85be8a57e22db53030df08b9c4d449c487c6e0b6c479ca219b72ae8a5ea00",
       "size": 1875959,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.espaimffth",
+      "name": "ESP-AIM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "ESP-AIM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM.3105",
+      "sha256": "a5755f873e38bcdb634ba56052707de8363907a7de44b0b4445f3821d72ad52d",
+      "size": 14315,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.espaimffm",
+      "name": "ESP-AIM FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "ESP-AIM FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/ESP-AIM%20FFM.3105",
+      "sha256": "6e69deb409af785f4f0542ed1d3718502c9219ccabc714375a467e6bffc50c49",
+      "size": 14320,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.menufixfft",
+      "name": "Menu Fix Crash FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Menu Fix Crash FFT",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20Fix%20Crash%20FFT.3105",
+      "sha256": "5b406f9bd7278810da0e372f5dd611c470d5c9ba69d21be5169cbcdd1dd05fd2",
+      "size": 23105,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.menufixdeltafft",
+      "name": "Menu Fix Crash Delta FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Menu Fix Crash Delta FFT",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire",
+      "tags": [
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20Fix%20Crash%20Delta%20FFT.3105",
+      "sha256": "fb331c54becc1399b9020129d1f9a3ef765cf2b392a783623a5f63f56084a695",
+      "size": 40109,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.menufixffm",
+      "name": "Menu Fix Crash FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Menu Fix Crash FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20Fix%20Crash%20FFM.3105",
+      "sha256": "6d9afdd02799d0471054edcd6846678770941cf7d0c7d0999ac9583920433f8f",
+      "size": 23106,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.menufixdeltaffm",
+      "name": "Menu Fix Crash Delta FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Menu Fix Crash Delta FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "Free Fire Max",
+      "tags": [
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Menu%20Fix%20Crash%20Delta%20FFM.3105",
+      "sha256": "0ddc6250cf5b1e61c42841205994d2d02aa99cfb2ccb84c0d935600b4935e2cd",
+      "size": 40110,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modfftalok",
+      "name": "Mod FFT Alok",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Mod FFT Alok",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MOD SKIN",
+      "tags": [
+        "MOD SKIN"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20FFT%20Alok.3105",
+      "sha256": "25ce60e757754171447320a838a2ba3155f6680aa467f834702e293c18601101",
+      "size": 2556165,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.spiderfft",
+      "name": "Spider FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Spider FFT",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MOD SKIN",
+      "tags": [
+        "MOD SKIN"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFT.3105",
+      "sha256": "ea462bde0c413c19a36c9741aa2a72bf759df1e0b8e75a9361f4c190321b80c2",
+      "size": 2556163,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.spiderffm",
+      "name": "Spider FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Spider FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MOD SKIN",
+      "tags": [
+        "MOD SKIN"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Spider%20FFM.3105",
+      "sha256": "44f274f69c6adfc81343d1d5bca420c829241dd2ebf21cd12e7c45a5eb12a763",
+      "size": 1886506,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modgojofft",
+      "name": "Mod Gojo FFT",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Mod Gojo FFT",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MOD SKIN",
+      "tags": [
+        "MOD SKIN"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Gojo%20FFT.3105",
+      "sha256": "0",
+      "size": 1886514,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/IMG_0544.jpeg"
+    },
+    {
+      "identifier": "com.shinn.modvipffm",
+      "name": "Mod Vip FFM",
+      "author": "Shinn Cheat",
+      "version": "2009",
+      "summary": "Mod Vip FFM",
+      "description": "Feed Back Telegram: @ShinnThieuu.",
+      "category": "MOD SKIN",
+      "tags": [
+        "MOD SKIN"
+      ],
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/mhieuushinn-dev/ShinnCheat/main/Mod%20Vip%20FFM.3105",
+      "sha256": "0",
+      "size": 2556170,
       "supportedOS": [
         {
           "minimum": "17.0",
